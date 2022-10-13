@@ -1,4 +1,5 @@
 Collaboration.md
+
 ● Goal: Provide insight into your collaborative work as a team
 ● Make sure to describe the team’s competencies and constraints.
 Ex: Experience, strengths, skills, schedule conflicts and/or other relevant information
@@ -6,7 +7,7 @@ about individual team members.
 
 Elsa - Enjoys frontend, loves UX/UI , does not enjoy backend coding.
 Darius - Has knowledge on cloud computing and java. Constraints are AI & JavaScript.
-David - Skilled in Java.
+David - Skilled in Java, C++ and HTML
 
 
 ● Describe your brainstorming meetings:
