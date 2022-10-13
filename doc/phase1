@@ -1,1 +1,28 @@
 Summary.md
+
+Goal: Describe your project.
+ Our Goal : This project is based on creating a productivity extension that incorporates selfcare for Mozilla Firefox's Browser. 
+ 
+What are you planning to build?
+We are planning to build a firefox extension that will help users to maintain focus, clarity and time management while trying to sustain a more productive lifestyle.
+
+Who are the users?And, why do you think users will find your software useful/valuable?
+User personas targetted include students with heavy workloads, business managers, project managers etc...
+Users will find this software useful because its very easy to get distracted and self care is essential to productivity!
+
+How are you planning to build it?
+We plan to build this extension using the Firefox Browser Developer and possibly another IDE if needed.
+
+What are the different components of the system?
+Different components of this extension will be a pomodoro timer, and a self care accountability checker...for now!
+
+What are some of the anticipated challenges? 
+We anticipate coding challenges such as figuring out how to make things work in the manner we want them to. 
+
+How will you divide the work?
+Our work will be divided by our teammates strengths capabilities to make the process smoother.
+Darius & David will work on backend coding and I will work on the frontend aspect.
+
+Our Intended Audience
+○ Your users - we need 2 to 3 convincing user stories, reasons that a person derives value from your software that believably link up to the product design.
+
