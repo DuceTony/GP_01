@@ -1,0 +1,20 @@
+{
+
+    "manifest_version": 2,
+    "name": "Motiv8-v1",
+    "version": "1.0",
+  
+    "description": "PROTOTYPE: Adds a solid red border to current webpages",
+  
+    "icons": {
+      "48": "icons/mv8-48.png"
+    },
+  
+    "content_scripts": [
+      {
+        "matches": ["*://*.google.com/*"],
+        "js": ["motiv8-v1.js"]
+      }
+    ]
+  
+  }
