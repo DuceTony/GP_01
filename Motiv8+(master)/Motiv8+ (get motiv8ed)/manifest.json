@@ -1,0 +1,25 @@
+
+{
+    "description": "A motivational quote appears every minute.",
+    "homepage_url": "https://github.com/DuceTony/GP_01/",
+    "icons": {
+        "48": "icons/mv8-48.png"
+    },
+    "version": "3.0",
+    "manifest_version": 2,
+    "name": "Get Motiv8ed",
+    "permissions": [
+        "alarms",
+        "notifications"
+    ],
+    "background": {
+        "scripts": [
+            "background.js"
+        ]
+    },
+    "applications": {
+        "gecko": {
+            "strict_min_version": "55.0a2"
+        }
+    }
+}
