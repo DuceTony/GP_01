@@ -1,0 +1,17 @@
+{
+    "name": "Motiv8-v2",
+    "manifest_version": 2,
+    "description": "Checks the users time and then shows a new motivational quote every 5 minutes.",
+    "version": "1.0",
+    "icons": {
+      "48": "icons/mv8-48.png"
+    },
+    "chrome_url_overrides": { 
+        "newtab": "tabs.html"
+    },
+    "applications": {
+      "gecko": {
+        "strict_min_version": "55.0a2"
+      }
+    }
+  }
